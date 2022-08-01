@@ -373,7 +373,7 @@ hr {
     animation-duration: 1s;
     animation-fill-mode: both;
     animation-timing-function: ease-in-out;
-    background-color: #181818;
+    background-color: #00010e;
     bottom: 0;
     display: block;
     position: fixed;
@@ -394,7 +394,7 @@ hr {
 }
 
 .lightbox-wrapper {
-    background-color: #101010;
+    background-color: #000110;
     position: fixed
 }
 
@@ -563,8 +563,8 @@ hr {
         transform: translateX(0)
     }
     to {
-        -webkit-transform: translateX(75px);
-        transform: translateX(75px)
+        -webkit-transform: translateX(69px);
+        transform: translateX(69px)
     }
 }
 
@@ -574,8 +574,8 @@ hr {
         transform: translateX(0)
     }
     to {
-        -webkit-transform: translateX(75px);
-        transform: translateX(75px)
+        -webkit-transform: translateX(69px);
+        transform: translateX(69px)
     }
 }
 
